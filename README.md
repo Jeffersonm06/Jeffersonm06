@@ -1,4 +1,4 @@
-## conhecimesntos
+## conhecimentos
 HTML<br>
 CSS<br>
 Javascript<br>
