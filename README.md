@@ -1,4 +1,4 @@
-# Meu Portfólio ✨<br>
+# Meu Portfólio 💻<br>
 ## Sobre Mim 📌<br>
 Olá! Meu nome é Wellington A. L. dos Reis. Sou Técnico em Informática e estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência em desenvolvimento web e busco oportunidades para atuar como desenvolvedor front-end ou back-end.
 <br>
