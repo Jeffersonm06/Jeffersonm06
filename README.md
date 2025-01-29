@@ -4,8 +4,6 @@ Olá! Meu nome é Wellington A. L. dos Reis. Sou Técnico em Informática e estu
 <br>
 <br>
 📧 Contato: wellingtonalexandre857@gmail.com<br>
-📱 Telefone: (21) 96817-7605<br>
-<br>
 <br>
 ## 🛠️ Tecnologias e Ferramentas <br> 
 ## Linguagens
