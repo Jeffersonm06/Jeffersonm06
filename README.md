@@ -8,13 +8,13 @@ Olá! Meu nome é Wellington A. L. dos Reis. Sou Técnico em Informática e estu
 <br>
 <br>
 # 🛠️ Minhas Tecnologias e Ferramentas<br>
-## Linguagens<br>
-![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) <br>
-![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) <br>
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) <br>
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) <br>
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) <br>
-<br>
-## Frameworks <br>
-![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg) <br>
-![Ionic](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg) <br>
+## Linguagens  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+
+## Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" height="40"/>  
