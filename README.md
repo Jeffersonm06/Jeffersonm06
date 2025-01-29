@@ -15,22 +15,22 @@ Olá! Meu nome é Wellington A. L. dos Reis. Sou Técnico em Informática e estu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <br> HTML  
 </p>
-&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <br> CSS  
 </p>
-&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <br> JavaScript  
 </p>
-&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <br> PHP  
 </p>
-&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <br> Python  
@@ -42,7 +42,7 @@ Olá! Meu nome é Wellington A. L. dos Reis. Sou Técnico em Informática e estu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
   <br> Angular  
 </p>
-&nbsp;&nbsp;&nbsp;
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50"/>
   <br> Ionic  
